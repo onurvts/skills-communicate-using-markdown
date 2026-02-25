@@ -11,3 +11,7 @@ print("Hello World")
 ~~~~
 print("Hello World")
 ~~~~
+
+![Mona the Octocat](myrepo/original.png)
+
+![Mona the Octocat](https://octodex.github.com/images/original.png)
